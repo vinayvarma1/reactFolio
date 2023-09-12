@@ -1,4 +1,4 @@
-import resume from '../assets/pdf/resume.pdf'
+import resume from '../assets/pdf/Vinay_Varma_Software_Engineer.pdf'
 import profile from '../assets/svg/about/profile.png'
 export const headerData = {
     name: 'Vinay Varma',
