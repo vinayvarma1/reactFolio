@@ -40,7 +40,7 @@ export const achievementData = {
         },
         {
             id : 4,
-            title : 'Front-End Web UI Frameworks and Tools: Bootstrap 4',
+            title : 'Front-End Web UI Frameworks',
             details : 'This certification underscores my proficiency in using Bootstrap 4, a powerful framework for building modern and responsive web applications, acquired through in-depth coursework and practical applications.',
             date : 'May 17, 2020',
             field : 'Coursera 2020',

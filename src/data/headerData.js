@@ -1,5 +1,5 @@
-import resume from '../assets/pdf/Vinay_Varma_Software_Engineer.pdf'
-import profile from '../assets/svg/about/profile.png'
+import resume from '../assets/pdf/Vinay_Varma_CV.pdf'
+import profile from '../assets/svg/about/profile.jpg'
 export const headerData = {
     name: 'Vinay Varma',
     title: "Software Developer",

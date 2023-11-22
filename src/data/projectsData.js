@@ -18,9 +18,9 @@ export const projectsData = [
     },
     {
         id: 2,
-        projectName: 'InForm Transportation',
-        projectDesc: 'InForm Transportation can manage maintenance events, issue work orders, and streamline day-to-day operations. ',
-        tags: ['React', 'Redux', 'Django', 'Tailwind CSS', 'PostgreSQl'],
+        projectName: 'InForm Buildings',
+        projectDesc: 'InForm Buildings can manage maintenance events, issue work orders, and streamline day-to-day operations. ',
+        tags: ['React', 'Redux', 'Django', 'PostgreSQl'],
         code: 'https://github.com/v-vinay',
         demo: 'https://www.ibigroup.com/ibi-products/inform-transportation/',
         image: two

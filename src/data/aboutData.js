@@ -1,6 +1,7 @@
 export const aboutData = {
     title: "Who I am",
-    description1: "My name's Vinay Varma. I'm a Software Developer based in Fairfax, VA, USA.",
-    description2: "I have worked as a lead developer at IBI Group and currently Masters student at GMU. I spent my leisure hours writing articles and poetry. Right now I'm also trying a hand at machine learning and AI. I love to learn and explore new arenas.",
+    description1: "My name's Vinay Varma. I'm a Software Developer based in Fairfax, VA, USA. With a passion for coding and a dedication to staying at the forefront of technology, I have cultivated a versatile skill set that allows me to tackle a wide range of projects.",
+    description2: "Hey there! I'm like a coding chameleon, fluent in languages like Java, Python, R, and PHP. I'm the web wizard who can sprinkle some HTML, CSS3, Bootstrap, JavaScript, and TypeScript magic to make websites dance and sing. \uD83D\uDC83\uD83D\uDC83\n\nI've got a toolkit full of cool gadgets, like Angular, Spring Boot, and Express.js, which I use to build web apps faster than a speeding bullet. \uD83D\uDCA8💨\n\nDatabases? No problemo! I'm buddies with MySQL and MongoDB, ensuring data behaves itself. And when things get messy, Git is my superhero sidekick for keeping things organized.\n\nWhen it's time to debug and test, I'm armed with a team of trusty sidekicks: Visual Studio Code, Eclipse, STS, Postman, MySQL Workbench, Spyder, Jupyter, and RStudio. Together, we're the dream team of web development! \uD83D\uDE80💻\n\nSo, if you've got a web project that needs a touch of magic, I'm your friendly neighborhood web developer! 😉🌐",
+    description3: "I have worked as a lead developer at IBI Group and currently Masters student at GMU. I spent my leisure hours writing articles and poetry. Right now I'm also trying a hand at machine learning and AI. I love to learn and explore new arenas.",
     image: 2
 }
