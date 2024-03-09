@@ -3,21 +3,19 @@ export const experienceData = [
         id: 1,
         company: 'IBI Group',
         jobtitle: 'Software Development Engineer - I',
-        startYear: '2021',
-        endYear: '2022'
-    },
-    {
-        id: 2,
-        company: 'IBI Group',
-        jobtitle: 'Associate Software Developer',
         startYear: '2019',
-        endYear: '2020'
-    },
-    {
-        id: 3,
-        company: 'IBI Group',
-        jobtitle: 'Software Engineering Intern',
-        startYear: '2019',
-        endYear: '2020'
+        endYear: '2022',
+        description: {
+            1 : "Exclusively used React functional components with hooks for state and lifecycle management.",
+            2: "Implemented TDD using React Testing Library with Jest.",
+            3: "Designed dynamic routing system using react-router.",
+            4: "Designed the application’s Redux store using Redux-Sagas, following best practices.",
+            5: "Developed RESTful APIs using Django Rest Framework for seamless communication between the frontend and backend.",
+            6: "Implemented authentication and authorization mechanisms using Django's built-in authentication system or custom authentication backends.",
+            7: "Developed web applications using Java EE or Spring framework, adhering to MVC architecture principles.",
+            8: "Utilized Spring Boot to quickly bootstrap and deploy Java web applications.",
+            9: "Implemented RESTful APIs using Spring MVC or Spring Boot, along with Jackson for JSON serialization.",
+            10: "Implemented authentication and authorization using Spring Security for securing Java web applications.",
+        }
     },
 ]

@@ -29,7 +29,7 @@ export const projectsData = [
         id: 3,
         projectName: 'CurbIQ',
         projectDesc: 'By digitization of the curbside regulations, CurbIQ helps the cities understand how their curbs are working today and gives them model tools to improve operations in the future.',
-        tags: ['React', 'Redux', 'Sagas', 'Typescript', 'Django', 'CSS', 'Material Ui'],
+        tags: ['React', 'Redux', 'Sagas', 'Typescript'],
         code: 'https://github.com/v-vinay',
         demo: 'https://www.ibigroup.com/ibi-products/curbiq/',
         image: three
