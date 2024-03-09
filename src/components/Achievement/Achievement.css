@@ -24,7 +24,7 @@
 
 .achievement-body h4 {
     font-size: 1.75rem;
-    font-family: 'Caveat', cursive;
+    font-family: var(--primaryFont);
     font-weight: 400;
 }
 
@@ -44,7 +44,6 @@
     flex-direction: row;
     align-items: flex-start;
     justify-content: space-between;
-    height: 170px;
     padding: 1.5rem;
     border-radius: 20px;
     margin-bottom: 1.5rem;
@@ -71,7 +70,7 @@
     font-family: var(--primaryFont);
     font-size: 18px;
     position: absolute;
-    bottom: 0px;
+    bottom: 10px;
     left: 25px;
 }
 
@@ -80,7 +79,7 @@
 }
 
 .achievecard-field {
-    width: 50%;
+    width: 70%;
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -100,7 +99,7 @@
 
 .achievecard-details1 p {
     font-size: 1.10rem;
-    font-family: Roboto;
+    font-family: var(--primaryFont);
     font-weight: 400;
 }
 

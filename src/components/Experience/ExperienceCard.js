@@ -39,9 +39,9 @@ function ExperienceCard({id, company, jobtitle, startYear, endYear, description}
                         <ul>
                             {Object.keys(description).map((element, key) => (
                                 <li key={key}>
-                                    <h6 id={key} style={{ color: theme.tertiary, fontSize: '1.2em' }}>
+                                    <h3 id={key} style={{ color: theme.tertiary }}>
                                         {description[element]}
-                                    </h6>
+                                    </h3>
                                 </li>
                             ))}
                         </ul>
