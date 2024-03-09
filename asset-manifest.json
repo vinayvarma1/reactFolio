@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/reactFolio/static/css/main.23346bf6.chunk.css",
+    "main.css": "/reactFolio/static/css/main.5c8a6627.chunk.css",
     "main.js": "/reactFolio/static/js/main.7192919f.chunk.js",
     "main.js.map": "/reactFolio/static/js/main.7192919f.chunk.js.map",
     "runtime-main.js": "/reactFolio/static/js/runtime-main.786556f7.js",
@@ -12,7 +12,7 @@
     "static/js/3.01d652a3.chunk.js.map": "/reactFolio/static/js/3.01d652a3.chunk.js.map",
     "index.html": "/reactFolio/index.html",
     "static/css/2.e8bd326b.chunk.css.map": "/reactFolio/static/css/2.e8bd326b.chunk.css.map",
-    "static/css/main.23346bf6.chunk.css.map": "/reactFolio/static/css/main.23346bf6.chunk.css.map",
+    "static/css/main.5c8a6627.chunk.css.map": "/reactFolio/static/css/main.5c8a6627.chunk.css.map",
     "static/js/2.143d400b.chunk.js.LICENSE.txt": "/reactFolio/static/js/2.143d400b.chunk.js.LICENSE.txt",
     "static/media/index.css": "/reactFolio/static/media/BestermindRegular.e58a1922.ttf",
     "static/media/Vinay_Varma_CV.c6f465a7.pdf": "/reactFolio/static/media/Vinay_Varma_CV.c6f465a7.pdf",
@@ -157,7 +157,7 @@
     "static/js/runtime-main.786556f7.js",
     "static/css/2.e8bd326b.chunk.css",
     "static/js/2.143d400b.chunk.js",
-    "static/css/main.23346bf6.chunk.css",
+    "static/css/main.5c8a6627.chunk.css",
     "static/js/main.7192919f.chunk.js"
   ]
 }
