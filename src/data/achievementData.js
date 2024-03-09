@@ -41,7 +41,7 @@ export const achievementData = {
         {
             id : 4,
             title : 'Front-End Web UI Frameworks',
-            details : 'This certification underscores my proficiency in using Bootstrap 4.',
+            details : 'This certification underscores my proficiency in using Bootstrap 4, Material UI and Bulma.',
             date : 'May 17, 2020',
             field : 'Coursera 2020',
             image : coursera

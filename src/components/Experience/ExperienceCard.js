@@ -35,17 +35,15 @@ function ExperienceCard({id, company, jobtitle, startYear, endYear, description}
                     <h6 style={{color: theme.primary}}>{startYear}-{endYear}</h6>
                     <h4 style={{color: theme.tertiary}}>{jobtitle}</h4>
                     <h5 style={{color: theme.tertiary80}}>{company}</h5>
-                    {description && (
-                        <ul>
-                            {Object.keys(description).map((element, key) => (
-                                <li key={key}>
-                                    <h3 id={key} style={{ color: theme.tertiary }}>
-                                        {description[element]}
-                                    </h3>
-                                </li>
-                            ))}
-                        </ul>
-                    )}
+                    {/* <h4 id={0} style={{color: theme.tertiary, marginTop: "1px" }}>
+                                        {description[1]}
+                                    </h4> */}
+                    {description && Object.keys(description).map((element, key) => (
+                        <h4 id={key} style={{color: theme.tertiary, marginTop: "2px", fontSize: "inherit" }}>
+                            {description[element]}
+                        </h4>
+                    ))
+                    }
 
                 </div>
             </div>
