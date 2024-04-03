@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/reactFolio/static/css/main.5c8a6627.chunk.css",
-    "main.js": "/reactFolio/static/js/main.7192919f.chunk.js",
-    "main.js.map": "/reactFolio/static/js/main.7192919f.chunk.js.map",
+    "main.js": "/reactFolio/static/js/main.ebd35520.chunk.js",
+    "main.js.map": "/reactFolio/static/js/main.ebd35520.chunk.js.map",
     "runtime-main.js": "/reactFolio/static/js/runtime-main.786556f7.js",
     "runtime-main.js.map": "/reactFolio/static/js/runtime-main.786556f7.js.map",
     "static/css/2.e8bd326b.chunk.css": "/reactFolio/static/css/2.e8bd326b.chunk.css",
@@ -15,7 +15,7 @@
     "static/css/main.5c8a6627.chunk.css.map": "/reactFolio/static/css/main.5c8a6627.chunk.css.map",
     "static/js/2.143d400b.chunk.js.LICENSE.txt": "/reactFolio/static/js/2.143d400b.chunk.js.LICENSE.txt",
     "static/media/index.css": "/reactFolio/static/media/BestermindRegular.e58a1922.ttf",
-    "static/media/Vinay_Varma_CV.c6f465a7.pdf": "/reactFolio/static/media/Vinay_Varma_CV.c6f465a7.pdf",
+    "static/media/Vinay_Varma_CV.825a1109.pdf": "/reactFolio/static/media/Vinay_Varma_CV.825a1109.pdf",
     "static/media/adobe-xd.fa7a22d2.svg": "/reactFolio/static/media/adobe-xd.fa7a22d2.svg",
     "static/media/adobeaudition.dd56aeda.svg": "/reactFolio/static/media/adobeaudition.dd56aeda.svg",
     "static/media/after-effects.16f048ca.svg": "/reactFolio/static/media/after-effects.16f048ca.svg",
@@ -158,6 +158,6 @@
     "static/css/2.e8bd326b.chunk.css",
     "static/js/2.143d400b.chunk.js",
     "static/css/main.5c8a6627.chunk.css",
-    "static/js/main.7192919f.chunk.js"
+    "static/js/main.ebd35520.chunk.js"
   ]
 }
