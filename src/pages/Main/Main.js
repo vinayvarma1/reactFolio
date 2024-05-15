@@ -19,7 +19,6 @@ function Main() {
             <Experience />
             <Projects />
             <Achievement />
-            <Testimonials />
             <Contacts />
             <Footer />
         </div>
