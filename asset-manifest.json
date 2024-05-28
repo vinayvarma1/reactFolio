@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/reactFolio/static/css/main.139fdd50.css",
-    "main.js": "/reactFolio/static/js/main.82ff4d77.js",
+    "main.js": "/reactFolio/static/js/main.cae5cdb7.js",
     "static/js/453.67a77d47.chunk.js": "/reactFolio/static/js/453.67a77d47.chunk.js",
     "static/media/four.svg": "/reactFolio/static/media/four.bd70304d5c1d04da32e60413fdfadfea.svg",
     "static/media/profile.jpg": "/reactFolio/static/media/profile.7db77fc4094614f87764.jpg",
@@ -146,11 +146,11 @@
     "static/media/vuetifyjs.svg": "/reactFolio/static/media/vuetifyjs.3848fcff351a0cbc94e75362594d2b25.svg",
     "static/media/bulma.svg": "/reactFolio/static/media/bulma.12ecb7941234000a2fe38a48cbce30da.svg",
     "main.139fdd50.css.map": "/reactFolio/static/css/main.139fdd50.css.map",
-    "main.82ff4d77.js.map": "/reactFolio/static/js/main.82ff4d77.js.map",
+    "main.cae5cdb7.js.map": "/reactFolio/static/js/main.cae5cdb7.js.map",
     "453.67a77d47.chunk.js.map": "/reactFolio/static/js/453.67a77d47.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.139fdd50.css",
-    "static/js/main.82ff4d77.js"
+    "static/js/main.cae5cdb7.js"
   ]
 }
