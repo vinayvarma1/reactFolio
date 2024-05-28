@@ -3,7 +3,7 @@ import profile from '../assets/svg/about/profile.jpg'
 export const headerData = {
     name: 'Vinay Varma',
     title: "Software Developer",
-    desciption:"Coding is like my secret sauce in the world of software engineering. With a versatile skill set encompassing everything from JavaScript to Python (and yes, even C++), I bring a unique blend of technical prowess and a touch of humor to every project. I'm Vinay, your trusted software engineer, always eager to embrace new challenges, learn, and find joy in my work.",
+    description: "Coding is my passion in the realm of software engineering. With a versatile skill set that includes JavaScript, Python, and even C++, I bring a unique blend of technical expertise and a touch of humor to every project. I am Vinay Varma, your trusted software engineer, always eager to embrace new challenges, learn continuously, and find joy in my work.",
     image: profile,
     resumePdf: resume
 }

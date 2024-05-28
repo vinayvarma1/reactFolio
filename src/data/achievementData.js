@@ -4,7 +4,7 @@ import hacker_rank from '../assets/png/hacker_rank.jpg';
 import udemy from '../assets/png/udemy.png';
 
 export const achievementData = {
-    bio : "I'm not your average software engineer. I've worn many tech hats, from demystifying web development in seminars to defending against cyber threats in workshops. I've earned accolades like being a State hackathon runner-up and becoming a certified JavaScript and React pro. Whether I'm decoding environmental pollution or cracking code, I bring a mix of humor and expertise to the table. I'm not just a techie; I'm a tech-savvy problem-solver with a passion for excellence.",
+    bio: "I am not your average software engineer. I have worn many tech hats, from demystifying web development in seminars to defending against cyber threats in workshops. I have earned accolades such as being a State hackathon runner-up and becoming a certified JavaScript and React professional. Whether I am addressing environmental pollution or debugging code, I bring a blend of humor and expertise to the table. I am not just a tech enthusiast; I am a tech-savvy problem-solver with a passion for excellence.",
     achievements : [
         {
             id : 1,

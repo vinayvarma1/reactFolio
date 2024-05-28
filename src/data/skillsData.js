@@ -4,7 +4,7 @@
     'Blender',
     'Figma',
     'Javascript',
-     'Typescript',
+    'Typescript',
     'CSS',
     'React',
     'Django',
@@ -18,6 +18,8 @@
      'MongoDB',
      'PostgreSQL',
      'MySQL',
+     'Flutter',
+     'Go'
 
 ]
 
