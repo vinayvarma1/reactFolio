@@ -19,7 +19,7 @@
      'PostgreSQL',
      'MySQL',
      'Flutter',
-     'Go'
+     'Go',
 
 ]
 
