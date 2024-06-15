@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/reactFolio/static/css/main.139fdd50.css",
-    "main.js": "/reactFolio/static/js/main.cae5cdb7.js",
+    "main.js": "/reactFolio/static/js/main.48b5ade5.js",
     "static/js/453.67a77d47.chunk.js": "/reactFolio/static/js/453.67a77d47.chunk.js",
     "static/media/four.svg": "/reactFolio/static/media/four.bd70304d5c1d04da32e60413fdfadfea.svg",
     "static/media/profile.jpg": "/reactFolio/static/media/profile.7db77fc4094614f87764.jpg",
@@ -17,7 +17,7 @@
     "static/media/expYellow.svg": "/reactFolio/static/media/expYellow.cff6e7009ac8cce0c8806daff98c4c87.svg",
     "static/media/five.svg": "/reactFolio/static/media/five.3fc9b49ee74629fae905840057830500.svg",
     "static/media/two.svg": "/reactFolio/static/media/two.4b4e9d26cc5158497835d2d88bcf4cf7.svg",
-    "static/media/Vinay_Varma_CV.pdf": "/reactFolio/static/media/Vinay_Varma_CV.b02bffaa6f0c80041376.pdf",
+    "static/media/Vinay_Varma_CV.pdf": "/reactFolio/static/media/Vinay_Varma_CV.b1047dd603de73aa7305.pdf",
     "static/media/meta.png": "/reactFolio/static/media/meta.3d0f7ef2405928f71374.png",
     "static/media/coursera.png": "/reactFolio/static/media/coursera.eea490da299645c696b7.png",
     "static/media/BestermindRegular.ttf": "/reactFolio/static/media/BestermindRegular.e58a192233afb30a6a59.ttf",
@@ -146,11 +146,11 @@
     "static/media/vuetifyjs.svg": "/reactFolio/static/media/vuetifyjs.3848fcff351a0cbc94e75362594d2b25.svg",
     "static/media/bulma.svg": "/reactFolio/static/media/bulma.12ecb7941234000a2fe38a48cbce30da.svg",
     "main.139fdd50.css.map": "/reactFolio/static/css/main.139fdd50.css.map",
-    "main.cae5cdb7.js.map": "/reactFolio/static/js/main.cae5cdb7.js.map",
+    "main.48b5ade5.js.map": "/reactFolio/static/js/main.48b5ade5.js.map",
     "453.67a77d47.chunk.js.map": "/reactFolio/static/js/453.67a77d47.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.139fdd50.css",
-    "static/js/main.cae5cdb7.js"
+    "static/js/main.48b5ade5.js"
   ]
 }
