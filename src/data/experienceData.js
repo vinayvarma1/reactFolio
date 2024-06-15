@@ -3,8 +3,8 @@ export const experienceData = [
         id: 1,
         company: 'George Mason University',
         jobtitle: 'Graduate Teaching Assistant',
-        startYear: '05/2023',
-        endYear: '05/2024',
+        startYear: '09/2023',
+        endYear: '06/2024',
         description: {
             1 : "• Evaluated fair and consistent grading of 100+ assignments and examinations, adhering to established rubrics.",
             2: "• Conducted over 10 review sessions and study groups per semester, with an average attendance of 20 students per session.",
@@ -14,7 +14,7 @@ export const experienceData = [
         id: 2,
         company: 'IBI Group',
         jobtitle: 'Full Stack Software Developer',
-        startYear: '07/2021',
+        startYear: '08/2019',
         endYear: '07/2022',
         description: {
             1 : "• Spearheaded a cross-functional software development team, delivering a high-stakes $1.2 million project on time and within budget, adhering to industry-standard SDLC methodologies.",
@@ -26,23 +26,9 @@ export const experienceData = [
     },
     {
         id: 3,
-        company: 'IBI Group',
-        jobtitle: 'React Developer',
-        startYear: '08/2019',
-        endYear: '07/2021',
-        description: {
-            1 : "• Crafted the creation of a highway assets management system leveraging React functional components with hooks and Redux, resulting in a 10% increase in system reliability and a 20% reduction in bug resolution time.",
-            2: "• Enhanced app performance by 40% through the implementation of React hooks, Redux, and React Router in the development.",
-            3: "• Followed front-end best practices with Redux-Sagas, cutting state management time by 55%.",
-            4: "• Engineered innovative full-stack web applications with ReactJS and Django, including the design and implementation of 100+ API endpoints for efficient data exchange between frontend and backend systems.",
-            5: "• Deployed a model for identifying parking spaces within the given image using YOLO algorithm for feature detection to determine the empty parking spots."
-        }
-    },
-    {
-        id: 3,
-        company: 'CodeNow',
+        company: 'Code-Now',
         jobtitle: 'Software Engineer',
-        startYear: '02/2019',
+        startYear: '07/2018',
         endYear: '08/2019',
         description: {
             1 : "• Drove key initiatives as a JavaScript Developer in an agile project, furnishing invaluable insights and technical acumen.",
