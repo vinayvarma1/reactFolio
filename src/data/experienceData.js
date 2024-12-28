@@ -1,17 +1,31 @@
 export const experienceData = [
     {
         id: 1,
+        company: 'Vanguard',
+        jobtitle: 'Software Development Engineer',
+        startYear: '08/2024',
+        endYear: 'Present',
+        description: {
+            1: "• Implemented Python multi-threading to optimize performance for concurrent processes, ensuring scalability and efficient task execution.",
+            2: "• Designed and developed algorithms for tax optimization, fund management, and tax harvesting to maximize financial outcomes.",
+            3: "• Built and deployed full-stack applications using React for dynamic interfaces and Python APIs for backend functionality.",
+            4: "• Deployed solutions on AWS utilizing services like EC2 and Lambda, ensuring scalable and cost-effective cloud operations.",
+            5: "• Managed the end-to-end development lifecycle, from writing and testing code to deployment and post-deployment monitoring."
+        }        
+    },
+    {
+        id: 2,
         company: 'George Mason University',
         jobtitle: 'Graduate Teaching Assistant',
         startYear: '09/2023',
-        endYear: '06/2024',
+        endYear: '10/2024',
         description: {
             1 : "• Evaluated fair and consistent grading of 100+ assignments and examinations, adhering to established rubrics.",
             2: "• Conducted over 10 review sessions and study groups per semester, with an average attendance of 20 students per session.",
         }
     },
     {
-        id: 2,
+        id: 3,
         company: 'IBI Group',
         jobtitle: 'Full Stack Software Developer',
         startYear: '08/2019',
@@ -25,7 +39,7 @@ export const experienceData = [
         }
     },
     {
-        id: 3,
+        id: 4,
         company: 'Code-Now',
         jobtitle: 'Software Engineer',
         startYear: '07/2018',
